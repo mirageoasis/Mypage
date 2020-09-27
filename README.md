@@ -1,0 +1,2 @@
+# Mypage
+django second
